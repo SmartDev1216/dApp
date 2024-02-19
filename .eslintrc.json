@@ -18,14 +18,14 @@
     "no-relative-import-paths/no-relative-import-paths": [
       "warn",
       { "allowSameFolder": true, "rootDir": "src" }
-    ],
-    "prettier/prettier": [
-      "error",
-      {
-        "semi": false,
-        "trailingComma": "all",
-        "arrowParens": "always"
-      }
+    ]
+    // "prettier/prettier": [
+    //   "error",
+    //   {
+    //     "semi": false,
+    //     "trailingComma": "all",
+    //     "arrowParens": "always"
+    //   }
     ]
   }
 }
